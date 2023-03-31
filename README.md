@@ -1,2 +1,2 @@
-# jderobot-challenge
-JDE Robot GSoC Challenge solutions for the python challenge and the c++ challenge
+# Python and CPP Challenge
+Challenge solutions for the python challenge and the c++ challenge
